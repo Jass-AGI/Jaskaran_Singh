@@ -222,8 +222,8 @@
   }
     
   .fa-github {
-    background: white;
-    color: black;
+    background: black;
+    color: white;
     height: auto; 
     width: auto;
     /* padding: 1px; */
@@ -233,7 +233,7 @@
   }
 
   .fa-instagram {
-    background: #125688;
+    background: #cd4378;
     color: white;
   }
 
