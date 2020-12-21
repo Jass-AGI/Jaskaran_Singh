@@ -278,7 +278,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
   list-style-type: none;
   margin: 0 5px;
   background: #fff;
-  padding-bottom: 60px;
+  /* padding-bottom: 60px; */
 }
 
 .testimonials .item .testimonial {
